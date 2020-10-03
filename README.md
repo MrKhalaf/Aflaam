@@ -21,8 +21,9 @@ Flxtr is an app that allows users to browse movies from the [The Movie Database 
 - [X] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
+Backup Imgur link: https://imgur.com/a/glHWuh6
 
-<img src='CP2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='CP2.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 ### Notes
 I set the cutoff for videos to autoplay at 7 stars since there were no movies I found under 5 in the video so that's why the first movie doesn't autoplay but the second does (because it has more than 7 stars).

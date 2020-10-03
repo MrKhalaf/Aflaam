@@ -25,8 +25,7 @@ Flxtr is an app that allows users to browse movies from the [The Movie Database 
 <img src='CP2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
-
-Describe any challenges encountered while building the app.
+I set the cutoff for videos to autoplay at 7 stars since there were no movies I found under 5 in the video so that's why the first movie doesn't autoplay but the second does (because it has more than 7 stars).
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
